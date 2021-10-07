@@ -590,6 +590,9 @@ span{
                                                      }
                                                      .context{
                                                       grid-template-columns: auto ;
+                                                      width:90%;
+                                                      margin:auto
+
                                                      }
                                                      .port, .folio{
                                                       grid-template-columns: auto ; 
